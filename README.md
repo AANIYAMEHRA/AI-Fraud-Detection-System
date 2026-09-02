@@ -1,4 +1,4 @@
-🚀 Just Launched: End-to-End Real-Time Fraud Detection System! 🚀
+<h1>🚀 Just Launched: End-to-End Real-Time Fraud Detection System! 🚀
 
 I'm excited to share my latest project—a full-stack, real-time fraud detection platform built from scratch! This project demonstrates my expertise in data engineering, machine learning, backend API development, and modern frontend engineering.
 
