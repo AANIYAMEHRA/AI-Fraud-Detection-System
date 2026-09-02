@@ -2,7 +2,7 @@
   <strong> <h1> 🚀 AI-Powered Real-Time Fraud Detection System </h1> <br>End-to-End Machine Learning + Full-Stack Fraud Detection Platform</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <em>Detect anomalous transactions in real time using Machine Learning, FastAPI, PostgreSQL, and React.</em>
 </p>
 
