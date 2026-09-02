@@ -570,7 +570,7 @@ This makes the project relevant to roles such as:
 
 # 👩‍💻 Author
 
-*Aniya Mehra**
+<strong> <h3>*Aniya Mehra*</h3> </strong>
 
 AI/ML • Full-Stack Development • Backend Engineering • Data Engineering
 
@@ -589,5 +589,5 @@ If you find this project useful or interesting, consider giving it a ⭐ on GitH
 
 ## 🙋‍♂️ Contact
 
-For questions or collaboration, open an issue or contact [uzumstanley](https://github.com/aaniyamehra).
+For questions or collaboration, open an issue or contact (https://github.com/AANIYAMEHRA).
 
