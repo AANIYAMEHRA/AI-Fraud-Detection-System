@@ -1,5 +1,5 @@
 <p align="center">
-  <strong># 🚀 AI-Powered Real-Time Fraud Detection System <br>End-to-End Machine Learning + Full-Stack Fraud Detection Platform</strong>
+  <strong> <h1> 🚀 AI-Powered Real-Time Fraud Detection System </h1> <br>End-to-End Machine Learning + Full-Stack Fraud Detection Platform</strong>
 </p>
 
 <p align="center">
