@@ -1,7 +1,5 @@
-# 🚀 AI-Powered Real-Time Fraud Detection System
-
 <p align="center">
-  <strong>End-to-End Machine Learning + Full-Stack Fraud Detection Platform</strong>
+  <strong># 🚀 AI-Powered Real-Time Fraud Detection System <br>End-to-End Machine Learning + Full-Stack Fraud Detection Platform</strong>
 </p>
 
 <p align="center">
