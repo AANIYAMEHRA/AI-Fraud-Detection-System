@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
+
 const initialData = {
   account_id: "frontend_test_001",
   TransactionAmount: 350.25,
@@ -20,6 +21,8 @@ const initialData = {
   user_primary_location: "Los Angeles",
   is_unusual_location: "False"
 };
+
+
 
 export default function TransactionScore() {
   const [form, setForm] = useState(initialData);
@@ -54,6 +57,7 @@ export default function TransactionScore() {
     }
   };
 
+  
   return (
     <div>
       <h2>Score a Transaction</h2>
