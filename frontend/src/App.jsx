@@ -3,6 +3,8 @@ import TransactionForm from "./components/TransactionForm";
 import ScoreResult from "./components/ScoreResult";
 import HistoryTable from "./components/HistoryTable";
 
+
+
 const App = () => {
   const [scoreResult, setScoreResult] = useState(null);
 
@@ -15,5 +17,7 @@ const App = () => {
     </div>
   );
 };
+
+
 
 export default App;
