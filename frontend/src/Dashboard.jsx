@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 
+
+
 const Dashboard = () => {
   const [transactions, setTransactions] = useState([]);
   const [alerts, setAlerts] = useState([]);
@@ -47,6 +49,7 @@ const Dashboard = () => {
     );
   }, [transactions]);
 
+  
   return (
     <div className="dashboard">
       <h1>Fraud Detection Dashboard</h1>
@@ -78,6 +81,7 @@ const Dashboard = () => {
         </tbody>
       </table>
 
+      
       <h2>Alerts</h2>
       <ul>
         {alerts.map((alert) => (
@@ -89,5 +93,6 @@ const Dashboard = () => {
     </div>
   );
 };
+
 
 export default Dashboard;
